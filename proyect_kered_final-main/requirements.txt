@@ -1,0 +1,2 @@
+flask == 2.15
+pipenv show flask (para mostrar la version)

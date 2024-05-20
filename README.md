@@ -1,20 +1,28 @@
 # proyect_kered_final
-El proyecto final de python-pro
-## mi idea es una pagina web que al principio tenga dos opciones, uno informativo que diga las consecuencias y los mas recientes desastres por el cambio climatico y enlaces oficiales de esto, y uno que te de tips, ideas creativas, videos de internet etc... que te ayude a reutilizar, dejar de contaminar, y actividades ecologicas simples, pero que a la larga aporte nuestro grano de arena. tambien podria implementar en un apartado el teacheable machine para reconocer el ambiente de nuestro entorno con una foto, y segun el lugar darnos recomendaciones mas especificas.. ejem: si vivo a lado de un lago cuidar el agua, si estoy en un bosque cuudarlo de incdndios si estoy en la ciudad cuidar el aire etc...
+Mi proyecto final de python-pro
 
-# utiliza html y python en visual studio obvio, y python anywhere para utilizar la pagina cuando quieras
+Nombre: Derek Nahum Castillo Gonzalez
 
-## Este es el tipo de mi proyecto: html
-> 
+Edad: 16 años
 
-## Las bibliotecas que voy a utilizar:
-- Biblioteca 1
-- Biblioteca N
+Curso: Python profesional
 
-## Referencias útiles:
-- Referencia 1
-- Referencia N
+Proyecto: Kered´s_GlobalWarning_web
 
-## Los artículos de la guía que me ayudarán durante el desarrollo
+| Mi idea es una pagina web que nos ayude a combatir el cambio climatico informandonos principalmente, y para ello desarrollare una pagina, que al principio te presente dos opciones, "INFORMATE", que diga las consecuencias y los mas recientes desastres por el cambio climatico, ademas de enlaces oficiales del tema, y "Aplicalo", que te llevara a varios enlaces de tips, ideas creativas, videos de internet etc... que te ayude a reutilizar, dejar de contaminar, y actividades ecologicas simples y entretenidas, pero que a la larga aporte nuestro grano de arena. Tendra un boton de ayuda por si alguin no sabe el funcionamineto de la pagina y al final lo mejor sería utilizar la plataforma python anywhere para usar la pagina cuando sea.
 
-#Un breve comentario que le ayudará a recordar de qué trata el artículo... [una palabra clicable que contendrá el enlace](https://enlace_al_artículo)
+| Se utiliza Html y python mediante visual studio code, y despues la plataforma python anywhere.
+
+| Las bibliotecas que voy a utilizar son:
+- Flask
+- Jinja2
+
+| Mis referencias útiles:
+- Nasa
+- My head
+
+| Los artículos de la guía que me ayudarán durante el desarrollo
+
+| Son varios articulos previamente investigados por mi, las ideas y sus enlaces oficiales podran encontrarlos en la pagina para corrovoer la informacion.
+
+Gracias por leer esta seccion, ahora te invito a utilizar la pagina y darme tu opinion, un buen producto, siempre puede actualizarse...

@@ -1,2 +1,16 @@
-flask == 2.15
-pipenv show flask (para mostrar la version)
+| REQUIREMENTS
+
+| Python
+
+| Flask
+
+| Jinja2
+
+| SQLAlchemy
+
+| Static / css / img
+
+|Templates / index / next / aply
+
+| Main.py
+

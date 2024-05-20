@@ -27,7 +27,7 @@ Proyecto: Kered´s_GlobalWarning_web
 
 Extensión:
 
-Excelente Dia, me presento soy, Derek Nahum Castillo González del curso de “Python Profesional” impartido por nuestro profesor José Cabreras, y a continuación, les presentare mi proyecto final, titulado: “Kered´s_GlobalWarming_Web.
+Excelente Dia, me presento soy, Derek Nahum Castillo González del curso de “Python Profesional” impartido por nuestro profesor José Cabarcas Torrenegra, y a continuación, les presentare mi proyecto final, titulado: “Kered´s_GlobalWarming_Web.
 Este, consiste en una pagina Web HTML con la ayuda de Python claro está, que nos permitirá ver el cambio climático desde otra perspectiva, apoyando así, el combate contra el calentamiento global a una escala considerable, pues su propósito es llevar información: accesible, clara y fácil de poner en práctica.
 Su funcionamiento se basa en 2 carpetas, templates y css, más el archivo main.py, con sus bibliotecas ya instaladas las cuales fueron, flask y jinja2… Y en su interior encontramos las subpáginas, el estilo, las imágenes, la estructura y la funcionabilidad de la página.
 Al presionar el enlace esperamos un poco en lo que nos carga, y encontraremos su portada con el nombre “The truth about Global Warning” que traducido del ingles significa, la verdad sobre el calentamiento global, con 2 botones abajo.

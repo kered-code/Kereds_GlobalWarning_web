@@ -23,6 +23,6 @@ Proyecto: Kered´s_GlobalWarning_web
 
 | Los artículos de la guía que me ayudarán durante el desarrollo
 
-| Son varios articulos previamente investigados por mi, las ideas y sus enlaces oficiales podran encontrarlos en la pagina para corrovoer la informacion.
+| Son varios articulos previamente investigados por mi, las ideas y sus enlaces oficiales podran encontrarlos en la pagina para corrovoer la informacion. Ejem. "https://climate.nasa.gov/evidence/"
 
 Gracias por leer esta seccion, ahora te invito a utilizar la pagina y darme tu opinion, un buen producto, siempre puede actualizarse...

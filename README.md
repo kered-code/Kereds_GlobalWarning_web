@@ -2,8 +2,11 @@
 Mi proyecto final de python-pro
 
 Nombre: Derek Nahum Castillo Gonzalez
+
 Edad: 16 años
+
 Curso: Python profesional
+
 Proyecto: Kered´s_GlobalWarning_web
 
 | Mi idea es una pagina web que nos ayude a combatir el cambio climatico informandonos principalmente, y para ello desarrollare una pagina, que al principio te presente dos opciones, "INFORMATE", que diga las consecuencias y los mas recientes desastres por el cambio climatico, ademas de enlaces oficiales del tema, y "Aplicalo", que te llevara a varios enlaces de tips, ideas creativas, videos de internet etc... que te ayude a reutilizar, dejar de contaminar, y actividades ecologicas simples y entretenidas, pero que a la larga aporte nuestro grano de arena. Tendra un boton de ayuda por si alguin no sabe el funcionamineto de la pagina y al final lo mejor sería utilizar la plataforma python anywhere para usar la pagina cuando sea.

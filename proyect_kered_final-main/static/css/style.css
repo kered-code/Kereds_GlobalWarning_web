@@ -1,1 +1,103 @@
-#hello
+body {
+    background-image: url("/static/img/playa.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+button {
+    padding: 25px 100px;
+    background-color: #6ca43a;
+    color: rgb(7, 37, 43);
+    border: none;
+    border-radius: 55px;
+    cursor: pointer;
+    margin: 410px;
+    
+    
+    margin-right:300px;
+
+    
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    height: 10vh;
+}
+
+button:hover {
+    background-color: #11c0de;
+}
+
+button {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px
+}
+
+
+h1{
+    color: #CCD0CF;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100px
+    
+}
+
+h1 {
+    margin-top: 50px
+}
+
+
+h2 {
+    color: #CCD0CF;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px
+}
+
+h3 {
+    color: #CCD0CF;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px
+
+}
+
+h3 {
+    margin-top: 180px
+}
+
+
+
+@keyframes aparecer {
+    from {
+      opacity: 0; 
+      transform: translateY(-20px); 
+    }
+    to {
+      opacity: 1; 
+      transform: translateY(0); 
+    }
+}
+  
+  
+  h1, h2, h3, h4, button {
+    animation: aparecer 2s ease-in-out; 
+}
+
+
+
+
+#myBtn {
+    position: absolute;
+    top: 990px;
+    right: -200px;
+    padding: 10px 20px;
+    background-color: #218fde00;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}

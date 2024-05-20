@@ -1,20 +1,18 @@
 # proyect_kered_final
-El proyecto final de python-pro
-## mi idea es una pagina web que al principio tenga dos opciones, uno informativo que diga las consecuencias y los mas recientes desastres por el cambio climatico y enlaces oficiales de esto, y uno que te de tips, ideas creativas, videos de internet etc... que te ayude a reutilizar, dejar de contaminar, y actividades ecologicas simples, pero que a la larga aporte nuestro grano de arena. tambien podria implementar en un apartado el teacheable machine para reconocer el ambiente de nuestro entorno con una foto, y segun el lugar darnos recomendaciones mas especificas.. ejem: si vivo a lado de un lago cuidar el agua, si estoy en un bosque cuudarlo de incdndios si estoy en la ciudad cuidar el aire etc...
+Name: El proyecto final de python-pro
 
-# utiliza html y python en visual studio obvio, y python anywhere para utilizar la pagina cuando quieras
+| Mi idea es una pagina web que nos ayude a combatir el cambio climatico informandonos principalmente, y para ello desarrollare que al principio te presente dos opciones, "INFORMATE", que diga las consecuencias y los mas recientes desastres por el cambio climatico, ademas de enlaces oficiales del tema, y "Aplicalo", que te llevara a varios enlaces de tips, ideas creativas, videos de internet etc... que te ayude a reutilizar, dejar de contaminar, y actividades ecologicas simples y entretenidas, pero que a la larga aporte nuestro grano de arena. Tendra un boton de ayuda por si alguin no sabe el funcionamineto de la pagina y al final lo mejor sería utilizar la plataforma python anywhere para usar la pagina cuando sea.
 
-## Este es el tipo de mi proyecto: html
-> 
+| Se utiliza Html y python mediante visual studio code, y despues la plataforma python anywhere.
 
-## Las bibliotecas que voy a utilizar:
-- Biblioteca 1
-- Biblioteca N
+| Las bibliotecas que voy a utilizar son:
+- Flask
+- Jinja2
 
-## Referencias útiles:
-- Referencia 1
-- Referencia N
+| Mis referencias útiles:
+- Nasa
+- My head
 
-## Los artículos de la guía que me ayudarán durante el desarrollo
+| Los artículos de la guía que me ayudarán durante el desarrollo
 
-#Un breve comentario que le ayudará a recordar de qué trata el artículo... [una palabra clicable que contendrá el enlace](https://enlace_al_artículo)
+#Son varios articulos previamente investigados por mi, las ideas y sus enlaces oficiales podran encontrarlos en la pagina para corrovoer la informacion. 
